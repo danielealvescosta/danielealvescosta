@@ -16,3 +16,21 @@
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+
+<table border="1">
+    <tr>
+        <td>Habilidades</td>
+        <td>Idade</td>
+        <td>Profissão</td>
+    </tr>
+    <tr>
+        <td>C#</td>
+        <td>22</td>
+        <td>Estudante</td>
+    </tr>
+    <tr>
+        <td>C</td>
+        <td>26</td>
+        <td>Designer</td>
+    </tr>
+</table>
